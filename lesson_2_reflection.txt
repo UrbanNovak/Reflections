@@ -24,3 +24,8 @@ What is the result of merging two branches together? Why do we represent it in t
 
 	Rezultat merganja je, da spremembe, ki si jih napravil v enem branchu preneseš v drugi branch.
 	
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+
+	pros: you don't have to do it manualy
+	cons: you don't known all the changes that are made unless if you compare the commits
+	
