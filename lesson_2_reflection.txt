@@ -15,3 +15,7 @@ What are some situations when branches would be helpful in keeping your history 
 
 	Branch je koristen v primerih, kjer želiš experimentirati s kakšno novo funkcionalnostjo, pa ne želiš tega delati na delujoči verziji.
 	Branch ustvari novo kopijo kode, ki jo lahko kasneje mergaš če želiš.
+	
+How do the diagrams help you visualize the branch structure?
+
+	s tem ker so diagrami
