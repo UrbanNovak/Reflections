@@ -1,0 +1,35 @@
+How did viewing a diff between two versions of a file help you see the bug that
+was introduced?
+
+    Diff compars two files line by line. The differences are shown.
+
+How could having easy access to the entire history of a file make you a more
+efficient programmer in the long term?
+
+    Če ne veš kaj delaš, potem težko, sicer ti pa pomaga pri odkrivanju napak,
+	da ne porabiš toliko časa pri iskanju le te.
+
+What do you think are the pros and cons of manually choosing when to create a
+commit, like you do in Git, vs having versions automatically saved, like Google
+docs does?
+
+    nimam mnenja
+
+Why do you think some version control systems, like Git, allow saving multiple
+files in one commit, while others, like Google Docs, treat each file separately?
+
+    Z eno spremembo lahko popraviš več datotek
+
+How can you use the commands git log and git diff to view the history of files?
+
+    z git log pregledaš commit-e, ki so se zgofili, nato pa z git diff preveriš spremembe med dvema commit-oma
+
+How might using version control make you more confident to make changes that
+could break something?
+
+    KEr vidiš kaj si spreminjal
+
+Now that you have your workspace set up, what do you want to try using Git for?
+
+    Bomo videli, mogoče za kakšen nov projekt?
+	
